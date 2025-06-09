@@ -1,5 +1,5 @@
 
-// contacto
+// mensaje cuando se envía el formulario
 document.getElementById('form-contacto').addEventListener('submit', function(e) {
     e.preventDefault();
     alert('Mensaje enviado. ¡Gracias por contactarnos!');
