@@ -78,3 +78,7 @@ nav ul a:hover {
     text-align: center;
     margin: 0 auto;
 }
+
+body { 
+    font-family: "Edu SA Hand", cursive;
+}
